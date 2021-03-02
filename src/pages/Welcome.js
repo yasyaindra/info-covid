@@ -2,15 +2,7 @@ import React from 'react'
 import Particles from 'react-particles-js';
 
 
-const style = {
-    fontFamily:"'Source Code Pro', monospace", 
-    fontSize:"5ch",
-    textAlign: 'center', 
-    marginTop: 50,
-    display:'flex',
-    justifyContent:'center',
-    alignItems:'center',
-  }
+
 
 const styledText = {
   textAlign:'center'

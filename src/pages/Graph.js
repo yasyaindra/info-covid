@@ -12,7 +12,6 @@ import classNames from 'clsx';
 import { withStyles } from '@material-ui/core/styles';
 import { Stack, Animation } from '@devexpress/dx-react-chart';
 import { carbonEmmision as data } from './demo-data/data';
-import Grid from '@material-ui/core/Grid';
 
 const setStyle = (style) => {
   const wrap = withStyles({ root: style });
